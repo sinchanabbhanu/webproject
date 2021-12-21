@@ -30,8 +30,8 @@ session_start();
 $con->close();
   ?>
     <div class="container">
-    <form action="FFFFFF.php" style="border:1px solid rgb(0, 0, 0)" class="form">
-        <a href="FFFFFF.html" class="close">&times;</a>
+    <form action="Homepage.php" style="border:1px solid rgb(0, 0, 0)" class="form">
+        <!--<a href="FFFFFF.html" class="close">&times;</a>-->
         <h1>Booking successful!</h1>
         <!--<div class="input">
             <label for="datepick"><b>Date:</b></label>

@@ -18,7 +18,7 @@ if(empty($_SESSION['username']))
 
     <div class="container">
     <form action="sadanandaslot.php" method="post" style="border:1px solid rgb(0, 0, 0)" class="form">
-        <a href="FFFFFF.php" class="close">&times;</a>
+        <a href="Homepage.php" class="close">&times;</a>
         <h1>Sadananda Auditorium</h1>
         <div class="input">
             <label for="datepick"><b>Choose a date :</b></label>

@@ -23,7 +23,7 @@ if(isset($_POST['submit']))
   }
   else {
     $_SESSION['username']=$username;
-    echo "<script type='text/javascript'>document.location='FFFFFF.php'</script>";
+    echo "<script type='text/javascript'>document.location='Homepage.php'</script>";
   }
 }
  ?>

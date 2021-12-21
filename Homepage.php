@@ -1,3 +1,15 @@
+<?php
+session_start();
+if(empty($_SESSION['username']))
+{
+  header('Location:Homepage.php');
+}
+/*if($_SESSION['username']=='admin')
+{
+
+}*/
+ ?>
+
 <!DOCTYPE html>
 <html style="font-size: 16px;">
   <head>
@@ -43,7 +55,7 @@
             </div>
             <div class="menu">
                <ul>
-                  <li><a href="FFFFFF.php">Home</a></li>
+                  <li><a href="Homepage.php">Home</a></li>
                   <li><a href="status.php">Venue Status</a></li>
                   <li><a href="up.php">Upcoming Events</a></li>
                   <li><a href="login2.php">Login</a></li>
@@ -176,7 +188,7 @@
                     <ul class="postcard__tagbox">
                         <!--<li class="tag__item"><a href="phalgunislot.html"><i class="fas fa-tag mr-2"></i>Availibility</a></li>-->
 
-                        <li class="tag__item">
+                        <li class="tag__item ">
                             <a href="phalguni.php"><i class="fas fa-play mr-2"></i>Book</a>
                         </li>
                     </ul>
