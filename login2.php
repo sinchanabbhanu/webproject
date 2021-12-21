@@ -87,11 +87,7 @@ if(!empty($_SESSION['username']))
 						<!--<button>
 							Sign in
 						</button>-->
-						<p>
-							<b>
-								Forgot password?
-							</b>
-						</p>
+						
 						<p>
 							<span>
 								Don't have an account?

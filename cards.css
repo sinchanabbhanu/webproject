@@ -2,7 +2,7 @@
 /* This pen */
 body {
   font-family: "Baloo 2", cursive;
-  font-size: 16px;
+  font-size: 18px !important;
   color: #ffffff;
   text-rendering: optimizeLegibility;
   font-weight: initial;
@@ -107,7 +107,7 @@ a:hover{
   display: inline-block;
   background: rgba(83, 83, 83, 0.4);
   border-radius: 3px;
-  padding: 2.5px 10px;
+  padding: 7px 12px;
   margin: 0 5px 5px 0;
   cursor: default;
   user-select: none;

@@ -64,7 +64,7 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   color: #fff;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 .menu-icon{
@@ -197,4 +197,14 @@ b{
 }
 .btn{
   padding-bottom: 100px;
+}
+.postcard__tagbox a{
+  color:#fff !important;
+}
+#pageHeaderTitle {
+  font-size:50px !important;
+  font-family: 'Trebuchet MS';
+  font-weight: bold;
+  font-style: italic;
+
 }

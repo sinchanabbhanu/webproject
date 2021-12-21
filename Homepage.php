@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="FFFFFF.css" media="screen">
     <link rel="stylesheet" href="cards.css">
     <link rel="stylesheet" href="css/all.min.css">
+    <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 
     <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
@@ -86,7 +87,7 @@
                         <i class="fas fa-plus"></i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internet Connection, Sound Systems and Projector Screen
                     </div>
                     <ul class="postcard__tagbox">
-                        <li class="tag__item play blue">
+                        <li class="tag__item ">
                             <a href="sadananda.php"><i class="fas fa-play mr-2"></i>Book</a>
                         </li>
                     </ul>
@@ -108,7 +109,7 @@
                     <ul class="postcard__tagbox">
                       <!--  <li class="tag__item"><a href="sambhramslot.html"><i class="fas fa-tag mr-2"></i>Availibility</a></li>-->
 
-                        <li class="tag__item play red">
+                        <li class="tag__item ">
                             <a href="sambhram.php"><i class="fas fa-play mr-2"></i>Book</a>
                         </li>
                     </ul>
@@ -131,7 +132,7 @@
 
                       <!--  <li class="tag__item"><a href="shambhavislot.html"><i class="fas fa-tag mr-2"></i>Availibility</a></li>-->
 
-                        <li class="tag__item play green">
+                        <li class="tag__item play ">
                             <a href="shambhavi.php"><i class="fas fa-play mr-2"></i>Book</a>
                         </li>
                     </ul>
@@ -153,7 +154,7 @@
                     <ul class="postcard__tagbox">
                         <!--<li class="tag__item"><a href="sowparnikaslot.php"><i class="fas fa-tag mr-2"></i>Availibility</a></li>-->
 
-                       <li class="tag__item play yellow">
+                       <li class="tag__item ">
                             <a href="sowparnika.php"><i class="fas fa-play mr-2"></i>Book</a>
                         </li>
                     </ul>
@@ -175,7 +176,7 @@
                     <ul class="postcard__tagbox">
                         <!--<li class="tag__item"><a href="phalgunislot.html"><i class="fas fa-tag mr-2"></i>Availibility</a></li>-->
 
-                        <li class="tag__item play purple">
+                        <li class="tag__item">
                             <a href="phalguni.php"><i class="fas fa-play mr-2"></i>Book</a>
                         </li>
                     </ul>
