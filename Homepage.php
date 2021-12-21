@@ -81,6 +81,7 @@ if(empty($_SESSION['username']))
         });
         </script>
       </header>
+    
       <section class="dark">
         <div class="container py-4">
             <h1 class="h1 text-center" id="pageHeaderTitle">Venues available</h1>
