@@ -1,13 +1,4 @@
-<?php
-session_start();
-if(empty($_SESSION['username']))
-{
-  header('Location:Homepage.php');
-}
-/*if($_SESSION['username']=='admin')
-{
 
-}*/
  ?>
 
 <!DOCTYPE html>
@@ -58,7 +49,7 @@ if(empty($_SESSION['username']))
                   <li><a href="Homepage.php">Home</a></li>
                   <li><a href="status.php">Venue Status</a></li>
                   <li><a href="up.php">Upcoming Events</a></li>
-                  <li><a href="login2.php">Login</a></li>
+                  <li><a href="logout.php">Login</a></li>
 
 
                </ul>

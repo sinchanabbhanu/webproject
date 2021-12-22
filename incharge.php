@@ -40,7 +40,7 @@ input[type=text]{
 				</div>
 				<div class="menu">
 				   <ul>
-					<li><a href="Homepage.php">Home</a></li>
+					<li><a href="FFFFFF.php">Home</a></li>
 					<li><a href="status.php">Venue Status</a></li>
 					<li><a href="up.php">Upcoming Events</a></li>
 					<li><a href="logoutprocess.php">Logout</a></li>
