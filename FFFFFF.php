@@ -22,6 +22,7 @@ if(empty($_SESSION['username']))
      <link rel="stylesheet" href="FFFFFF.css" media="screen">
      <link rel="stylesheet" href="cards.css">
      <link rel="stylesheet" href="css/all.min.css">
+     <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
 
      <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
      <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>

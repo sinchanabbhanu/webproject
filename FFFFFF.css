@@ -120,13 +120,14 @@ nav ul li a {
 }
 .footer{
   background: #000;
-  height:260px;
+  background-repeat: repeat;
+  height:250px;
   
 }
-@media (max-width: 600px) {
+@media (max-width: 750px) {
   
   .footer {
-    height: 900px;
+    height: 600px;
   }
 }
 

@@ -27,7 +27,7 @@ if(!empty($_SESSION['username']))
 					<div class="form sign-up">
 						<div class="input-group">
 							<i class="bx bxs-user"></i>
-                <form id="signup1" method="post" action="Homepage.php" autocomplete="off">
+                <form id="signup1" method="post" action="FFFFFF.php" autocomplete="off">
                   <i class="fa fa-user"></i>
               <input type="text" name="username" placeholder="Username" onchange="user()" required/>
 						</div>
