@@ -30,11 +30,7 @@ if(empty($_SESSION['username']))
 
 
 
-     <script type="application/ld+json">{
- 		"@context": "http://schema.org",
- 		"@type": "Organization",
- 		"name": ""
- }</script>
+     
 
      <meta name="theme-color" content="#478ac9">
      <meta property="og:title" content="xxx">
@@ -63,6 +59,7 @@ if(empty($_SESSION['username']))
                 </ul>
              </div>
           </nav>
+          <!-- script for navigation bar-->
           <script>
           $(document).ready(function() {
            $(".menu-icon").on("click", function() {
